@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main__login{
+    width: 100vw;
+    height: 100vh;
+    background: #201b2c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left__login {
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.left__login > h1 {
+    color: #71ffc0;
+}
+
+.right__login {
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card__login {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px 35px;
+    background: #2f2841;
+    border-radius: 20px;
+    box-shadow: 0 10px 40px #00000056;
+}
+
+.subtitulo {
+    
+    color:#00ff88;
+    font-weight: 800;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.subtitulo {
+    text-transform: uppercase;
+}
